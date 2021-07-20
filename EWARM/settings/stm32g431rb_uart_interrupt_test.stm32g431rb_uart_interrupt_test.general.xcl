@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armstlink2.dll" 
+
+"C:\Workspace\_Projects\Samsung_HA_aircon\20210715_wwdg_uart3_interrupt_status\stm32g431rb_uart_interrupt_test - Copy\EWARM\stm32g431rb_uart_interrupt_test\Exe\stm32g431rb_uart_interrupt_test.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\ST\STM32L4xx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\ST\FlashSTM32G4x1.board" 
+
+
+
+
